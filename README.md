@@ -1,0 +1,2 @@
+# Customized-Drug-Delivery-System-Sistema-de-Liberaci-n-de-F-rmacos-Personalizado
+Este proyecto se centra en el desarrollo de un sistema innovador para la liberación de fármacos en el tratamiento del cáncer. El objetivo principal es crear un sistema que permita la administración de medicamentos de manera precisa y personalizada, adaptándose a las necesidades específicas de cada paciente y a la evolución del tumor.
